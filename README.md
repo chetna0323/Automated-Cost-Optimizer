@@ -34,7 +34,7 @@ A serverless Lambda function is triggered via CloudWatch to stop EC2 instances, 
 
 🏗️ Architecture Diagram
 
-![Architecture](./screenshots/architecture.jpg)
+![Architecture](./screenshots/architecture.png)
 
 ---
 
